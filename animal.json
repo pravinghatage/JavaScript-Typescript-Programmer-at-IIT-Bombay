@@ -1,0 +1,18 @@
+
+ {
+    "bigCats": [
+      { "id": "1","speceies":"Big Cats", "name": "Lion", "location": "Africa", "size": 200, "image":"asset/tiger.jpeg"  },
+      { "id": "2", "speceies":"Big Cats","name": "Tiger", "location": "Asia", "size": 220, "image": "asset/tiger.jpeg" },
+      { "id": "3","speceies":"Big Cats", "name": "Leopard", "location": "Asia", "size": 220, "image": "asset/tiger.jpeg" },
+      { "id": "4", "speceies":"Big Cats","name": "Cheetah", "location": "Asia", "size": 220, "image": "asset/tiger.jpeg" }
+    ],
+    "dogs": [
+      { "id": "1","speceies":"Dog", "name": "Golden Retriever", "location": "Global", "size": 35, "image": "asset/dog.jpeg" },
+      { "id": "2","speceies":"Dog", "name": "German Shepherd", "location": "Global", "size": 40, "image": "asset/dog.jpeg" }
+    ],
+    "bigFish": [
+      { "id": "1","speceies":"Big Fish", "name": "Shark", "location": "Ocean", "size": 1000, "image": "asset/shark.jpeg" },
+      { "id": "2", "speceies":"Big Fish","name": "Whale", "location": "Ocean", "size": 1500, "image": "asset/shark.jpeg" }
+    ]
+  }
+  
